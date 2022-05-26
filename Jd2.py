@@ -68,10 +68,7 @@ def helpnote():
 
  exit(" [*] FACEBOOK :  https://www.facebook.com/support.192")
 
-def notice():
-
  
-
 plist = (platform.uname())[2]
 
 basex = plist
